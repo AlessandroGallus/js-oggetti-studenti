@@ -1,0 +1,23 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+main{
+  padding-top: 20px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  min-height: 100vh;
+  background-color: sandybrown;
+}
+.btn{
+  width:200px;
+  height:80px;
+  background-color: aqua;
+  font-size: 22px;
+  border-radius: 15px;
+  line-height: 80px;
+  cursor: pointer;
+  text-align: center;
+}
